@@ -1,0 +1,7 @@
+{
+    "env":{
+        "mongoDatabase": "kd-user" ,
+        "mongoUserName":  "Kalidass"  ,
+        "mongoUserPassword": "jW4AvaN5xRvTUmuK"
+    }
+}
